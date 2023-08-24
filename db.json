@@ -1,0 +1,16 @@
+{
+    "books": [
+      { "id": 1, "title": "To Kill a Mockingbird", "author": "Harper Lee", "genre": "Fiction" },
+      { "id": 2, "title": "1984", "author": "George Orwell", "genre": "Dystopian Fiction" },
+      { "id": 3, "title": "Pride and Prejudice", "author": "Jane Austen", "genre": "Classic Fiction" },
+      { "id": 4, "title": "The Great Gatsby", "author": "F. Scott Fitzgerald", "genre": "Classic Fiction" },
+      { "id": 5, "title": "The Catcher in the Rye", "author": "J.D. Salinger", "genre": "Fiction" },
+      { "id": 6, "title": "Harry Potter and the Sorcerer's Stone", "author": "J.K. Rowling", "genre": "Fantasy" },
+      { "id": 7, "title": "The Lord of the Rings", "author": "J.R.R. Tolkien", "genre": "Fantasy" },
+      { "id": 8, "title": "To the Lighthouse", "author": "Virginia Woolf", "genre": "Modernist Fiction" },
+      { "id": 9, "title": "The Hobbit", "author": "J.R.R. Tolkien", "genre": "Fantasy" },
+      { "id": 10, "title": "Moby-Dick", "author": "Herman Melville", "genre": "Classic Fiction" },
+      { "id": 11, "title": "The Alchemist", "author": "Paulo Coelho", "genre": "Fiction" },
+      { "id": 12, "title": "The Odyssey", "author": "Homer", "genre": "Epic Poetry" }
+    ]
+  }

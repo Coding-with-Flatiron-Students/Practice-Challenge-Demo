@@ -1,0 +1,41 @@
+
+html{
+    font-size: 16px;
+    font-family: "Arial", sans-serif;
+  }
+  
+  body {
+    background-color: lightgrey;
+    font-size: 16px;
+    font-family: "Arial", sans-serif;
+    padding: 20px; /* Adds some space around the body content */
+  }
+  
+  h1 {
+    color: navy;
+    margin-bottom: 20px; /* Adds space below the h1 */
+  }
+  
+  input[type="text"] {
+    display: block; /* Makes the input take a full line */
+    padding: 5px;
+    margin-bottom: 10px; /* Adds space below the input */
+  }
+  
+  button {
+    background-color: blue;
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+    margin-bottom: 20px; /* Adds space below the button */
+  }
+  
+  ul {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    list-style-type: none;
+    padding: 0;
+  }
